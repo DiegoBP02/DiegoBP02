@@ -25,7 +25,7 @@ I am a future Full Stack Developer <img src="https://media.giphy.com/media/WUlpl
 
 :rocket: I'm studying to become a future Full Stack Developer!
 
-:book: I love learn new technologies and build cool stuff!
+:book: I love learning new technologies and build cool stuff!
 
 :smiley: It's just the beginning of my journey but it's a very interesting one!
 
