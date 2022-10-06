@@ -23,7 +23,7 @@ I am a future Full Stack Developer <img src="https://media.giphy.com/media/WUlpl
 
 :slightly_smiling_face: I'm looking for my first job opportunity!
 
-:rocket: I'm studying to become a future Full Stack Developer!
+:rocket: I'm studying to become a Full Stack Developer!
 
 :book: I love learning new technologies and build cool stuff!
 
