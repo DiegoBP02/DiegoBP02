@@ -19,12 +19,16 @@
 ---
 
 :man_technologist: Sobre mim:
-I am a future Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil :brazil:.
+I am a future Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
 
 :slightly_smiling_face: I'm looking for my first job opportunity!
+
 :rocket: I'm studying to become a future Full Stack Developer!
+
 :book: I love learn new technologies and build cool stuff
+
 :smiley: It's just the beginning of my journey but it's a very interesting one!
+
 :mailbox:How to reach me: <a href="https://www.linkedin.com/in/diego-pereira-291637235/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -47,4 +51,5 @@ I am a future Full Stack Developer <img src="https://media.giphy.com/media/WUlpl
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DiegoBP02&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoBP02&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
