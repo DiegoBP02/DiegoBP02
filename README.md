@@ -31,7 +31,7 @@ I am a future Full Stack Developer <img src="https://media.giphy.com/media/WUlpl
 
 :mailbox:How to reach me: <a href="https://www.linkedin.com/in/diego-pereira-291637235/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  </a>&nbsp;
   <a href="https://wa.me/5511973529379" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
