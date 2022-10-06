@@ -18,7 +18,7 @@
 
 ---
 
-:man_technologist: Sobre mim:
+:man_technologist: About me:
 I am a future Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
 
 :slightly_smiling_face: I'm looking for my first job opportunity!
