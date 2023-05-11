@@ -52,5 +52,3 @@ I am a future Full Stack Developer <img src="https://media.giphy.com/media/WUlpl
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DiegoBP02&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?DiegoBP02" frameborder="0"></iframe>
