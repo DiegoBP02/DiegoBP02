@@ -29,7 +29,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 :smiley: It's just the beginning of my journey but it's a very interesting one!
 
-:mailbox:How to reach me:&nbsp; <a href="https://www.linkedin.com/in/diego-pereira-291637235/" target="_blank">
+:mailbox:How to reach me:&nbsp; <a href="https://www.linkedin.com/in/diego-batista-291637235/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://wa.me/5511973529379" target="_blank">
